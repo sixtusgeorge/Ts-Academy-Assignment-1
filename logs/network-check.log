@@ -1,0 +1,11 @@
+[2026-10-23 21:51:37] Starting network check for host: '8.8.8.8' with port: 53
+[2026-10-23 21:51:37] Successfully resolved 8.8.8.8 to 8.8.8.8
+[2026-10-23 21:51:38] ICMP ping check to 8.8.8.8 succeeded
+[2026-10-23 21:51:38] TCP connectivity check to 8.8.8.8:53 succeeded (OPEN)
+[2026-10-23 21:51:38] network-check.sh completed successfully for 8.8.8.8
+[2026-10-23 21:51:38] Starting network check for host: '8.8.8.8' with port: 99999
+[2026-10-23 21:51:38] Successfully resolved 8.8.8.8 to 8.8.8.8
+[2026-10-23 21:51:39] ICMP ping check to 8.8.8.8 succeeded
+[2026-10-23 21:51:39] Error: Invalid port number provided: 99999
+[2026-10-23 21:51:39] Starting network check for host: 'nonesuchhostxyz123.local'
+[2026-10-23 21:51:39] Error: Failed to resolve host 'nonesuchhostxyz123.local'

@@ -1,0 +1,6 @@
+[2026-10-23 21:50:24] Checking disk usage for path '/' with threshold 5%
+[2026-10-23 21:50:24] Disk usage for / is 1% (Threshold: 5%)
+[2026-10-23 21:50:24] Disk usage is within safe limits.
+[2026-10-23 21:50:24] Checking disk usage for path '/' with threshold 99%
+[2026-10-23 21:50:24] Disk usage for / is 1% (Threshold: 99%)
+[2026-10-23 21:50:24] Disk usage is within safe limits.
